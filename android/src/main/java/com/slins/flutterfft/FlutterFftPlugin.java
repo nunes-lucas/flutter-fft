@@ -21,7 +21,6 @@ import androidx.annotation.RequiresApi;
 import androidx.core.app.ActivityCompat;
 
 import io.flutter.plugin.common.PluginRegistry;
-import io.flutter.plugin.common.PluginRegistry.Registrar;
 import io.flutter.embedding.engine.plugins.FlutterPlugin;
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
